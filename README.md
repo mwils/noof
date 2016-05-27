@@ -1,7 +1,8 @@
 # noof
 ## Linux simple file sharing built on node.js
+## Inspired by woof
 ### Useage
-Copy woof.js to your usr bin and make executable
+Copy noof.js to your usr bin and make executable
 Invoke with 
 `noof file.ext`
 
